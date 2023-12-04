@@ -1,0 +1,1 @@
+Projeto feito junto a RocketSeat para entender os fundamentos do react-native
